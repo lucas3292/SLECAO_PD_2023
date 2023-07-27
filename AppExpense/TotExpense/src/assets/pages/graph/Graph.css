@@ -1,0 +1,11 @@
+.container_chard{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.content_chard{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

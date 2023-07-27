@@ -1,0 +1,54 @@
+.container_box_register_expense{
+    width: 90%;
+    background-color: rgb(5, 5, 5);
+    height: auto;
+    position:relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    border-radius: 25px;
+}
+.container_labels{
+    color: aliceblue;
+    font-size:30px;
+    margin: 8%;
+}
+.title_register_expense{
+    width: 50%;
+    color: aliceblue;
+    padding:0 0 0 4%;
+    font-size: 40px;
+}
+.container_form_expense{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    padding:0 0 0 4%;
+    margin-bottom: 4%;
+}
+.container_buttons_expense{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.container_apresentation_expense{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.container_options_butons{
+    width: 50%;
+    height: 100px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-right: 6%;
+}
+.container_strong{
+    margin: 0;
+}

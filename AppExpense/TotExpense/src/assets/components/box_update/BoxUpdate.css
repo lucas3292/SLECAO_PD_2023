@@ -1,0 +1,21 @@
+.container_sections_update{
+    background-color: rgba(0, 0, 0, 0.579);
+    width: 217vh;
+    height: 115vh;
+    margin-left: -21%;
+    margin-top: -12.5%;
+    position: fixed;
+}
+.container_box_update{
+    width: 47%;
+    height: auto;
+    border-radius: 5%;
+    background-color: #121212;
+    display: flex;
+    flex-direction: column;
+    margin-top: -5%;
+    margin-left: 5%;
+    border:1px solid aliceblue;
+    position: fixed;
+    
+}

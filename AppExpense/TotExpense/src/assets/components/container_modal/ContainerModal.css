@@ -1,0 +1,35 @@
+.container_links{
+    border-bottom: 1px solid aliceblue;
+    display: flex;
+}
+.card_expense_container{
+    width: 100%;
+    height: 30px;
+    display: flex;
+    justify-content: end;
+    margin: 0;
+    padding: 0;
+
+}
+.links{
+    color: aliceblue;
+    font-size: 30px;
+    cursor: pointer;
+    width: 1000%;
+}
+
+.container_icon{
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    width: 100%;
+}
+
+.container_inf{
+    margin: 0;
+    display: flex;
+    margin-bottom: 3%;
+    width: 100%;
+    flex-wrap: wrap;
+}

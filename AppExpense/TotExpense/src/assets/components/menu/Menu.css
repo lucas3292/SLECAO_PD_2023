@@ -1,0 +1,38 @@
+.container_hearder{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    
+}
+.container_icons_menu{
+    width: 10%;
+    height: 100%;
+    background-color:aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container_options{
+    width: 90%;
+    height: 100%;
+    display: flex;
+}
+
+.container_nav{
+    display: flex;
+    background-color: black;
+    padding-right: 5%;
+    width: 100%;
+    justify-content: end;
+    align-items: center;
+}
+
+.links_menu{
+    font-size: 20px;
+    margin-right: 2%;
+    font-weight: 500;
+    color: aliceblue;
+    text-decoration: inherit;
+}
